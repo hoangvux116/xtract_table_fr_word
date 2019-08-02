@@ -7,5 +7,6 @@ Using command line, clone this repository to your local by:
 
 Change directory to this folder by: `cd xtract_table_fr_word` then run following commands:  
 1. ```virtualenv -p python venv```  
-2. ```pip install -r requirements.txt```  
-3. ```python xtract_table.py [your_path_to_Word_file]```
+2. ```source ~/xtract_table_fr_word/venv/bin/activate```  
+3. ```pip install -r requirements.txt```  
+4. ```python xtract_table.py [your_path_to_Word_file]```
